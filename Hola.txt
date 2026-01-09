@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print("hello word");
 print("comi ti chiami");
 print("tengo 22 años");
+=======
+print("hello word");
+>>>>>>> parent of 1579f2a (Update Hola.txt)
